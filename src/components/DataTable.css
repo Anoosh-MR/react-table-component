@@ -1,0 +1,12 @@
+.table-row-red {
+  background-color: #ffcccb;
+}
+.table-row-green {
+  background-color: #90ee90;
+}
+.ant-table-thead {
+  background-color: black;
+}
+.ant-table-container .ant-table-content .ant-table-thead .ant-table-cell {
+  background-color: #628e90;
+}
